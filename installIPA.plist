@@ -6,19 +6,19 @@
 		<key>kind</key>
 		<string>software-package</string>
 		<key>url</key>
-		<string>http://127.0.0.1/CloudViews.ipa</string>
+		<string>http://172.20.120.123/CloudViews.ipa</string>
 	</dict>
 	<dict>
 		<key>kind</key>
 		<string>display-image</string>
 		<key>url</key>
-		<string>http://127.0.0.1/icon-83.5@2x.png</string>
+		<string>http://172.20.120.123/icon-83.5@2x.png</string>
 	</dict>
 	<dict>
 		<key>kind</key>
 		<string>full-size-image</string>
 		<key>url</key>
-		<string>http://127.0.0.1/launchScreen-English.png</string>
+		<string>http://172.20.120.123/launchScreen-English.png</string>
 	</dict>
 </array>
 </plist>
